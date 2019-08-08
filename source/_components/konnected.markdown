@@ -37,6 +37,10 @@ A `konnected` section must be present in the `configuration.yaml` file that spec
 
 ```yaml
 # Example configuration.yaml entry
+
+# Enable discovery
+discovery:
+
 konnected:
   access_token: REPLACE_ME_WITH_A_RANDOM_STRING
   devices:
@@ -177,6 +181,10 @@ devices:
 
 ```yaml
 # Example configuration.yaml entry
+
+# Enable discovery
+discovery:
+
 konnected:
   access_token: REPLACE_ME_WITH_A_RANDOM_STRING
   devices:
